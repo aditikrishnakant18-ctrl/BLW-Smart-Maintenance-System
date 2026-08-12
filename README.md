@@ -66,7 +66,7 @@ The dashboard highlights abnormal conditions and shows important prediction driv
 ![Failure Simulation](Screenshot%202026-06-25%20152826.png)
 
 ### Machine Simulation
-![Machine Simulation](Screenshot%202026-06-25%20152826.png)
+![Machine Simulation](Screenshot%202026-06-25%20152845.png)
 
 ### Failure Simulation
 ![Failure Simulation](Screenshot%202026-06-25%20152845.png)
